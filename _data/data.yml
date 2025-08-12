@@ -38,55 +38,36 @@ sidebar:
     title: Languages
     info:
     - idiom: English
+      level: Professional
+
+    - idiom: Malayalam
       level: Native
-
-    - idiom: French
-      level: Professional
-
-    - idiom: Spanish
-      level: Professional
 
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: Reading
       link:
 
 
-    - item: Snowboarding
-      link:
-
-
-    - item: Cooking
+    - item: Photography
       link:
 
 
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Experienced DevOps Engineer with a strong background in designing, automating, and managing scalable
+    cloud infrastructure across AWS and GCP. Skilled in CI/CD, container orchestration, infrastructure as
+    code, and cloud security best practices. Proven track record in optimizing deployments, enhancing system
+    reliability, and driving cost efficiency in production environments.
+
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+  - degree: MSA in Computer Science
+    university: Noorul Islam College of Engineering, Kanyakumari
+    time: 2015 - 2017
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -99,21 +80,32 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: DevOps Engineer
+    time: 2024 - Present
+    company: Leapcodes Pvt Ltd , Kakkanad, Kerala.
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      Accomplished cloud engineer with extensive experience in architecting, migrating, and maintaining highly available,
+      scalable, and secure multi-cloud infrastructures across AWS, Azure, and GCP. Skilled in leading cloud migration
+      initiatives, including lift-and-shift, re-platforming, and re-architecting between AWS and Azure with minimal downtime.
+      Proficient in designing and managing end-to-end CI/CD pipelines using AWS CodePipeline, CodeBuild, and CodeDeploy to
+      enhance deployment speed and reliability. Adept at implementing cloud security best practices aligned with SOC 2, ISO
+      27001, and HIPAA compliance standards, as well as developing automation scripts in Bash and PowerShell for operational
+      efficiency.
+
+        - Architected and maintained highly available and scalable cloud infrastructure on AWS and Azure,
+          enabling robust deployment environments for production applications.
+        - Led cloud migration initiatives involving lift-and-shift, re-platforming, and re-architecting from AWS
+          to Azure and vice versa, ensuring minimal downtime
+        - Designed and maintained end-to-end CI/CD pipelines using AWS CodePipeline, CodeBuild,
+          CodeDeploy and improving deployment speed and consistency.
+        - Implemented cloud security best practices in line with SOC 2, ISO 27001, and HIPAA compliance
+          requirements.
+        - Developed scripts in Bash and PowerShell to automate routine operational and deployment tasks.
+        - Conducted cost optimization analysis of GCP workloads to reduce redundant resource utilization and
+          improve cost efficiency.
+        - Collaborated with development teams to ensure infrastructure design supports application scalability
+          and resilience.
+        - Supported clients in deploying and configuring AWS Connect solutions.
   - role: Senior Software Engineer
     time: 2014 - 2015
     company: Google, London
@@ -283,4 +275,4 @@ skills:
     level: 60%
 
 footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+  Designed with <i class="fas fa-heart"></i> by <a href="https://theartistree.in" target="_blank" rel="nofollow">TheArtistree</a>
